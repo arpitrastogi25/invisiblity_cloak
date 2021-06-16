@@ -7,7 +7,7 @@ Created a simple Invisibility cloak code like that used by Harry Potter using op
 
 3. Finally the live webcam image is masked with the background image creating a illusion that anything behind the cloak becomes invisible.
 
-#---------------------------
+#---------------------------------------------------
 
 Dependencies:-
 
