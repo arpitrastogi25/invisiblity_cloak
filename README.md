@@ -7,10 +7,12 @@ Created a simple Invisibility cloak code (like that used by Harry Potter) using 
 
 3. Finally the live webcam image is masked with the background image creating a illusion that anything behind the cloak becomes invisible. Masking is done in findMask(img) function.
 
-#---------------------------------------------------
+#------------------------------------------------------------------------------------------------------
 
 Dependencies:-
 
 import cv2;
+
 import numpy as np;
+
 import time
