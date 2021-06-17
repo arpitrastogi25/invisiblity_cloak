@@ -11,6 +11,6 @@ Created a simple Invisibility cloak code (like that used by Harry Potter) using 
 
 Dependencies:-
 
-import cv2
+import cv2\n
 import numpy as np
 import time
